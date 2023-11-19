@@ -6,4 +6,5 @@
 * Bootstrap version 5 added via Webpacker
 
 
-yarn add bootstrap@4.6.2 popper.js
+@popperjs/core@2.11.8
+bootstrap@5.2.3
